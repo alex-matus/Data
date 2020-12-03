@@ -1,2 +1,2 @@
-# Test
-This is just a test.
+# Data
+This contains selected data files useful for applying geospatial analysis in python.
